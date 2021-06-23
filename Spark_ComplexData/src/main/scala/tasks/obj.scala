@@ -32,7 +32,7 @@ object obj {
       
      import  spark.implicits._  
    
-     println("******************************rawData***************************************")  
+     println("******************************Url Data***************************************")  
  
       
     val apidata=Source.fromURL("https://randomuser.me/api/0.8/?results=1000")
